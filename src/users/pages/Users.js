@@ -13,7 +13,7 @@ const Users = () => {
   ];
   return (
     <div>
-      <UserLists item={USER} />
+      <UserLists items={USER} />
     </div>
   );
 };
